@@ -1,6 +1,7 @@
 ## Original Source Code
 
 https://github.com/keiyoushi/extensions-source
+https://github.com/keiyoushi/extensions
 
 ## Guide
 
