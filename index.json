@@ -38,5 +38,25 @@
                 "versionId": 1
             }
         ]
+    },
+    {
+        "name": "Tachiyomi: The Beginning After The End",
+        "pkg": "eu.kanade.tachiyomi.extension.fr.thebeginningaftertheend",
+        "apk": "tachiyomi-fr.thebeginningaftertheend-v1.4.37.apk",
+        "lang": "fr",
+        "code": 37,
+        "version": "1.4.37",
+        "nsfw": 0,
+        "hasReadme": 0,
+        "hasChangelog": 0,
+        "sources": [
+            {
+                "name": "The Beginning After The End",
+                "lang": "fr",
+                "id": "6162166634373401025",
+                "baseUrl": "https://www.thebeginningaftertheend.fr",
+                "versionId": 1
+            }
+        ]
     }
 ]
