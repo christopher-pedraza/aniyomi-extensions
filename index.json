@@ -1,41 +1,18 @@
 [
     {
-        "name": "Tachiyomi: Mangakakalot",
-        "pkg": "eu.kanade.tachiyomi.extension.en.mangakakalot",
-        "apk": "tachiyomi-en.mangakakalot-v1.4.8.apk",
+        "name": "Tachiyomi: Weeb Central",
+        "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
+        "apk": "tachiyomi-en.weebcentral-v1.4.9.apk",
         "lang": "en",
-        "code": 8,
-        "version": "1.4.8",
-        "nsfw": 0,
-        "hasReadme": 0,
-        "hasChangelog": 0,
+        "code": 9,
+        "version": "1.4.9",
+        "nsfw": 1,
         "sources": [
             {
-                "name": "Mangakakalot",
+                "name": "Weeb Central",
                 "lang": "en",
-                "id": "2528986671771677900",
-                "baseUrl": "https://mangakakalot.com",
-                "versionId": 1
-            }
-        ]
-    },
-    {
-        "name": "Tachiyomi: MangaSee",
-        "pkg": "eu.kanade.tachiyomi.extension.en.mangasee",
-        "apk": "tachiyomi-en.mangasee-v1.4.36.apk",
-        "lang": "en",
-        "code": 36,
-        "version": "1.4.36",
-        "nsfw": 0,
-        "hasReadme": 0,
-        "hasChangelog": 0,
-        "sources": [
-            {
-                "name": "MangaSee",
-                "lang": "en",
-                "id": "9",
-                "baseUrl": "https://mangasee123.com",
-                "versionId": 1
+                "id": "2131019126180322627",
+                "baseUrl": "https://weebcentral.com"
             }
         ]
     }
