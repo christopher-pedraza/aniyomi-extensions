@@ -2,10 +2,10 @@
     {
         "name": "Tachiyomi: Weeb Central",
         "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
-        "apk": "tachiyomi-en.weebcentral-v1.4.9.apk",
+        "apk": "tachiyomi-en.weebcentral-v1.4.12.apk",
         "lang": "en",
-        "code": 9,
-        "version": "1.4.9",
+        "code": 12,
+        "version": "1.4.12",
         "nsfw": 1,
         "sources": [
             {
